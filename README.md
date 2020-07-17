@@ -1,1 +1,1 @@
-<img src="https://github.com/christianjank/christianjank/blob/master/img.svg">
+<img src="https://raw.githubusercontent.com/christianjank/christianjank/master/img.svg">
